@@ -32,6 +32,7 @@ jobs:
         name: Make Library
         run: |
           make push
+          rm -rf .setup/latex/bib.bib
       - 
         name: Commit and push changes
         uses: devops-infra/action-commit-push@master
