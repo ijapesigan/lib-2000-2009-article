@@ -10,6 +10,7 @@
   abstracts = {The authors propose new procedures for evaluating direct, indirect, and total effects in multilevel models when all relevant variables are measured at Level 1 and all effects are random. Formulas are provided for the mean and variance of the indirect and total effects and for the sampling variances of the average indirect and total effects. Simulations show that the estimates are unbiased under most conditions. Confidence intervals based on a normal approximation or a simulated sampling distribution perform well when the random effects are normally distributed but less so when they are nonnormally distributed. These methods are further developed to address hypotheses of moderated mediation in the multilevel context. An example demonstrates the feasibility and usefulness of the proposed methods.},
   publisher = {American Psychological Association ({APA})},
   keywords = {multilevel model, hierarchical linear model, indirect effect, mediation, moderated mediation},
+  annotation = {mediation, mediation-multilevel},
 }
 
 @Article{Cheung-2009a,
@@ -24,6 +25,7 @@
   abstract = {Mediation models are often used as a means to explain the psychological mechanisms between an independent and a dependent variable in the behavioral and social sciences. A major limitation of the unstandardized indirect effect calculated from raw scores is that it cannot be interpreted as an effect-size measure. In contrast, the standardized indirect effect calculated from standardized scores can be a good candidate as a measure of effect size because it is scale invariant. In the present article, 11 methods for constructing the confidence intervals (CIs) of the standardized indirect effects were evaluated via a computer simulation. These included six Wald CIs, three bootstrap CIs, one likelihood-based CI, and the PRODCLIN CI. The results consistently showed that the percentile bootstrap, the bias-corrected bootstrap, and the likelihood-based approaches had the best coverage probability. Mplus, LISREL, and Mx syntax were included to facilitate the use of these preferred methods in applied settings. Future issues on the use of the standardized indirect effects are discussed.},
   publisher = {Springer Science and Business Media {LLC}},
   keywords = {mediation analysis, coverage probability, structural equation modeling approach},
+  annotation = {mediation, mediation-bootstrap, mediation-likelihood, mediation-delta, mediation-prodclin},
 }
 
 @Article{Cheung-2009b,
@@ -37,6 +39,7 @@
   volume = {16},
   abstract = {Confidence intervals (CIs) for parameters are usually constructed based on the estimated standard errors. These are known as Wald CIs. This article argues that likelihood-based CIs (CIs based on likelihood ratio statistics) are often preferred to Wald CIs. It shows how the likelihood-based CIs and the Wald CIs for many statistics and psychometric indexes can be constructed with the use of phantom variables (Rindskopf, 1984) in some of the current structural equation modeling (SEM) packages. The procedures to form CIs for the differences in correlation coefficients, squared multiple correlations, indirect effects, coefficient alphas, and reliability estimates are illustrated. A simulation study on the Pearson correlation is used to demonstrate the advantages of the likelihood-based CI over the Wald CI. Issues arising from this SEM approach and extensions of this approach are discussed.},
   publisher = {Informa {UK} Limited},
+  annotation = {mediation, mediation-likelihood},
 }
 
 @Article{Cheung-Lau-2007,
@@ -51,6 +54,7 @@
   abstract = {Because of the importance of mediation studies, researchers have been continuously searching for the best statistical test for mediation effect. The approaches that have been most commonly employed include those that use zero-order and partial correlation, hierarchical regression models, and structural equation modeling (SEM). This study extends MacKinnon and colleagues (MacKinnon, Lockwood, Hoffmann, West, \& Sheets, 2002; MacKinnon, Lockwood, \& Williams, 2004, MacKinnon, Warsi, \& Dwyer, 1995) works by conducting a simulation that examines the distribution of mediation and suppression effects of latent variables with SEM, and the properties of confidence intervals developed from eight different methods. Results show that SEM provides unbiased estimates of mediation and suppression effects, and that the bias-corrected bootstrap confidence intervals perform best in testing for mediation and suppression effects. Steps to implement the recommended procedures with Amos are presented.},
   publisher = {{SAGE} Publications},
   keywords = {mediating effects, suppression effects, structural equation modeling},
+  annotation = {mediation, mediation-bootstrap},
 }
 
 @Article{CribariNeto-Souza-Vasconcellos-2007,
@@ -78,6 +82,7 @@
   abstract = {Mediation models are widely used, and there are many tests of the mediated effect. One of the most common questions that researchers have when planning mediation studies is, ``How many subjects do I need to achieve adequate power when testing for mediation?'' This article presents the necessary sample sizes for six of the most common and the most recommended tests of mediation for various combinations of parameters, to provide a guide for researchers when designing studies or applying for grants.},
   publisher = {{SAGE} Publications},
   keywords = {bootstrap, collinearity, mediation analysis, power, tolerance},
+  annotation = {mediation, mediation-power, mediation-causalsteps, mediation-joint, mediation-delta, mediation-prodclin, mediation-bootstrap},
 }
 
 @Article{Graham-Olchowski-Gilreath-2007,
@@ -105,6 +110,7 @@
   volume = {39},
   abstract = {This article describes a program, PRODCLIN (distribution of the PRODuct Confidence Limits for INdirect effects), written for SAS, SPSS, and R, that computes confidence limits for the product of two normal random variables. The program is important because it can be used to obtain more accurate confidence limits for the indirect effect, as demonstrated in several recent articles (MacKinnon, Lockwood, \& Williams, 2004; Pituch, Whittaker, \& Stapleton, 2005). Tests of the significance of and confidence limits for indirect effects based on the distribution of the product method have more accurate Type I error rates and more power than other, more commonly used tests. Values for the two paths involved in the indirect effect and their standard errors are entered in the PRODCLIN program, and distribution of the product confidence limits are computed. Several examples are used to illustrate the PRODCLIN program. The PRODCLIN programs in rich text format may be downloaded from www.psychonomic.org/archive.},
   publisher = {Springer Science and Business Media {LLC}},
+  annotation = {mediation, mediation-prodclin},
 }
 
 @Article{MacKinnon-Lockwood-Hoffman-etal-2002,
@@ -118,6 +124,7 @@
   volume = {7},
   abstract = {A Monte Carlo study compared 14 methods to test the statistical significance of the intervening variable effect. An intervening variable (mediator) transmits the effect of an independent variable to a dependent variable. The commonly used R. M. Baron and D. A. Kenny (1986) approach has low statistical power. Two methods based on the distribution of the product and 2 difference-in-coefficients methods have the most accurate Type I error rates and greatest statistical power except in 1 important case in which Type I error rates are too high. The best balance of Type I error and statistical power across all cases is the test of the joint significance of the two effects comprising the intervening variable effect.},
   publisher = {American Psychological Association ({APA})},
+  annotation = {mediation, mediation-causalsteps, mediation-jointtest, mediation-prodclin},
 }
 
 @Article{MacKinnon-Lockwood-Williams-2004,
@@ -160,6 +167,7 @@
   abstract = {Researchers often conduct mediation analysis in order to indirectly assess the effect of a proposed cause on some outcome through a proposed mediator. The utility of mediation analysis stems from its ability to go beyond the merely descriptive to a more functional understanding of the relationships among variables. A necessary component of mediation is a statistically and practically significant indirect effect. Although mediation hypotheses are frequently explored in psychological research, formal significance tests of indirect effects are rarely conducted. After a brief overview of mediation, we argue the importance of directly testing the significance of indirect effects and provide SPSS and SAS macros that facilitate estimation of the indirect effect with a normal theory approach and a bootstrap approach to obtaining confidence intervals, as well as the traditional approach advocated by Baron and Kenny (1986). We hope that this discussion and the macros will enhance the frequency of formal mediation tests in the psychology literature. Electronic copies of these macros may be downloaded from the Psychonomic Society’s Web archive at www.psychonomic.org/archive/.},
   publisher = {Springer Science and Business Media {LLC}},
   keywords = {life satisfaction, indirect effect, mediation analysis, cognitive therapy, Sobel test},
+  annotation = {mediation, mediation-delta, mediation-bootstrap},
 }
 
 @Article{Preacher-Hayes-2008,
@@ -174,6 +182,7 @@
   abstract = {Hypotheses involving mediation are common in the behavioral sciences. Mediation exists when a predictor affects a dependent variable indirectly through at least one intervening variable, or mediator. Methods to assess mediation involving multiple simultaneous mediators have received little attention in the methodological literature despite a clear need. We provide an overview of simple and multiple mediation and explore three approaches that can be used to investigate indirect processes, as well as methods for contrasting two or more mediators within a single model. We present an illustrative example, assessing and contrasting potential mediators of the relationship between the helpfulness of socialization agents and job satisfaction. We also provide SAS and SPSS macros, as well as Mplus and LISREL syntax, to facilitate the use of these methods in applications.},
   publisher = {Springer Science and Business Media {LLC}},
   keywords = {indirect effect, structural equation modeling, residual covariance, total indirect effect, multiple mediator model},
+  annotation = {mediation, mediation-bootstrap},
 }
 
 @Article{Raghunathan-Lepkowski-Hoewyk-etal-2001,
@@ -226,6 +235,7 @@
   publisher = {American Psychological Association ({APA})},
   abstract = {Mediation is said to occur when a causal effect of some variable $X$ on an outcome $Y$ is explained by some intervening variable $M$. The authors recommend that with small to moderate samples, bootstrap methods (B. Efron \& R. Tibshirani, 1993) be used to assess mediation. Bootstrap tests are powerful because they detect that the sampling distribution of the mediated effect is skewed away from 0. They argue that R. M. Baron and D. A. Kenny's (1986) recommendation of first testing the $X \to Y$ association for statistical significance should not be a requirement when there is a priori belief that the effect size is small or suppression is a possibility. Empirical examples and computer setups for bootstrap analyses are provided.},
   publisher = {American Psychological Association ({APA})},
+  annotation = {mediation, mediation-bootstrap},
 }
 
 @Article{Taylor-MacKinnon-Tein-2007,
@@ -240,6 +250,7 @@
   abstract = {In a three-path mediational model, two mediators intervene in a series between an independent and a dependent variable. Methods of testing for mediation in such a model are generalized from the more often used single-mediator model. Six such methods are introduced and compared in a Monte Carlo study in terms of their Type I error, power, and coverage. Based on its results, the joint significance test is preferred when only a hypothesis test is of interest. The percentile bootstrap and bias-corrected bootstrap are preferred when a confidence interval on the mediated effect is desired, with the latter having more power but also slightly inflated Type I error in some conditions.},
   publisher = {{SAGE} Publications},
   keywords = {mediation, bootstrapping},
+  annotation = {mediation, mediation-bootstrap, mediation-jointtest},
 }
 
 @Article{vanBuuren-Brand-GroothuisOudshoorn-etal-2006,
