@@ -278,6 +278,34 @@
   annotation = {mediation, mediation-bootstrap},
 }
 
+@Article{CribariNeto-2004,
+  author = {Francisco Cribari-Neto},
+  date = {2004-03},
+  journaltitle = {Computational Statistics {\&} Data Analysis},
+  title = {Asymptotic inference under heteroskedasticity of unknown form},
+  doi = {10.1016/s0167-9473(02)00366-3},
+  number = {2},
+  pages = {215--233},
+  volume = {45},
+  abstract = {We focus on the finite-sample behavior of heteroskedasticity-consistent covariance matrix estimators and associated quasi-$t$ tests. The estimator most commonly used is that proposed by Halbert White. Its finite-sample behavior under both homoskedasticity and heteroskedasticity is analyzed using Monte Carlo methods. We also consider two other consistent estimators, namely: the HC3 estimator, which is an approximation to the jackknife estimator, and the weighted bootstrap estimator. Additionally, we evaluate the finite-sample behavior of two bootstrap quasi-$t$ tests: the test based on a single bootstrapping scheme and the test based on a double, nested bootstrapping scheme. The latter is very computer-intensive, but proves to work well in small samples. Finally, we propose a new estimator, which we call HC4; it is tailored to take into account the effect of leverage points in the design matrix on associated quasi-$t$ tests.},
+  publisher = {Elsevier {BV}},
+  annotation = {regression, regression-hc},
+}
+
+@Article{CribariNeto-daSilva-2010,
+  author = {Francisco Cribari-Neto and Wilton Bernardino {da Silva}},
+  date = {2010-11},
+  journaltitle = {{AStA} Advances in Statistical Analysis},
+  title = {A new heteroskedasticity-consistent covariance matrix estimator for the linear regression model},
+  doi = {10.1007/s10182-010-0141-2},
+  number = {2},
+  pages = {129--146},
+  volume = {95},
+  abstract = {The assumption that all random errors in the linear regression model share the same variance (homoskedasticity) is often violated in practice. The ordinary least squares estimator of the vector of regression parameters remains unbiased, consistent and asymptotically normal under unequal error variances. Many practitioners then choose to base their inferences on such an estimator. The usual practice is to couple it with an asymptotically valid estimation of its covariance matrix, and then carry out hypothesis tests that are valid under heteroskedasticity of unknown form. We use numerical integration methods to compute the exact null distributions of some quasi-t test statistics, and propose a new covariance matrix estimator. The numerical results favor testing inference based on the estimator we propose.},
+  publisher = {Springer Science and Business Media {LLC}},
+  annotation = {regression, regression-hc},
+}
+
 @Article{CribariNeto-Souza-Vasconcellos-2007,
   author = {Francisco Cribari-Neto and Tatiene C. Souza and Klaus L. P. Vasconcellos},
   date = {2007-08},
@@ -289,6 +317,20 @@
   volume = {36},
   abstract = {We evaluate the finite-sample behavior of different heteros-ke-das-ticity-consistent covariance matrix estimators, under both constant and unequal error variances. We consider the estimator proposed by Halbert White (HC0), and also its variants known as HC2, HC3, and HC4; the latter was recently proposed by Cribari-Neto (2004). We propose a new covariance matrix estimator: HC5. It is the first consistent estimator to explicitly take into account the effect that the maximal leverage has on the associated inference. Our numerical results show that quasi-$t$ inference based on HC5 is typically more reliable than inference based on other covariance matrix estimators.},
   publisher = {Informa {UK} Limited},
+  annotation = {regression, regression-hc},
+}
+
+@Article{CribariNeto-Souza-Vasconcellos-2008,
+  author = {Francisco Cribari-Neto and Tatiene C. Souza and Klaus L. P. Vasconcellos},
+  date = {2008-09},
+  journaltitle = {Communications in Statistics - Theory and Methods},
+  title = {Errata: Inference under heteroskedasticity and leveraged data, {Communications in Statistics, Theory and Methods}, 36, 1877--1888, 2007},
+  doi = {10.1080/03610920802109210},
+  number = {20},
+  pages = {3329--3330},
+  volume = {37},
+  publisher = {Informa {UK} Limited},
+  annotation = {regression, regression-hc},
 }
 
 @Article{Fritz-MacKinnon-2007,
@@ -333,6 +375,46 @@
   Over the years, methods used to test such process models have grown in sophistication. An example includes the rise of structural equation modeling (SEM), which allows investigators to examine how well a process model that links some focal variable X to some outcome Y through one or more intervening pathways fits the observed data. Yet frequently, the analytical choices communication researchers make when testing intervening variables models are out of step with advances made in the statistical methods literature. My goal here is to update the field on some of these new advances. While at it, I challenge some conventional wisdom and nudge the field toward a more modern way of thinking about the analysis of intervening variable effects.},
   publisher = {Informa {UK} Limited},
   annotation = {mediation, mediation-bootstrap},
+}
+
+@Article{Hayes-Cai-2007,
+  author = {Andrew F. Hayes and Li Cai},
+  date = {2007-11},
+  journaltitle = {Behavior Research Methods},
+  title = {Using heteroskedasticity-consistent standard error estimators in {OLS} regression: An introduction and software implementation},
+  doi = {10.3758/bf03192961},
+  number = {4},
+  pages = {709--722},
+  volume = {39},
+  publisher = {Springer Science and Business Media {LLC}},
+  annotation = {regression, regression-hc},
+}
+
+@Article{Kauermann-Carroll-2001,
+  author = {G{\"o}ran Kauermann and Raymond J. Carroll},
+  date = {2001-12},
+  journaltitle = {Journal of the American Statistical Association},
+  title = {A note on the efficiency of sandwich covariance matrix estimation},
+  doi = {10.1198/016214501753382309},
+  number = {456},
+  pages = {1387--1396},
+  volume = {96},
+  abstract = {The sandwich estimator, also known as robust covariance matrix estimator, heteroscedasticity-consistent covariance matrix estimate, or empirical covariance matrix estimator, has achieved increasing use in the econometric literature as well as with the growing popularity of generalized estimating equations. Its virtue is that it provides consistent estimates of the covariance matrix for parameter estimates even when the fitted parametric model fails to hold or is not even specified. Surprisingly though, there has been little discussion of properties of the sandwich method other than consistency. We investigate the sandwich estimator in quasi-likelihood models asymptotically, and in the linear case analytically. We show that under certain circumstances when the quasi-likelihood model is correct, the sandwich estimate is often far more variable than the usual parametric variance estimate. The increased variance is a fixed feature of the method and the price that one pays to obtain consistency even when the parametric model fails or when there is heteroscedasticity. We show that the additional variability directly affects the coverage probability of confidence intervals constructed from sandwich variance estimates. In fact, the use of sandwich variance estimates combined with $t$-distribution quantiles gives confidence intervals with coverage probability falling below the nominal value. We propose an adjustment to compensate for this fact.},
+  publisher = {Informa {UK} Limited},
+  annotation = {regression, regression-hc},
+}
+
+@Article{Long-Ervin-2000,
+  author = {J. Scott Long and Laurie H. Ervin},
+  date = {2000-08},
+  journaltitle = {The American Statistician},
+  title = {Using heteroscedasticity consistent standard errors in the linear regression model},
+  doi = {10.1080/00031305.2000.10474549},
+  number = {3},
+  pages = {217--224},
+  volume = {54},
+  publisher = {Informa {UK} Limited},
+  annotation = {regression, regression-hc},
 }
 
 @Article{MacKinnon-Fritz-Williams-etal-2007,
@@ -515,4 +597,17 @@
   volume = {30},
   abstract = {Survey and longitudinal studies in the social and behavioral sciences generally contain missing data. Mean and covariance structure models play an important role in analyzing such data. Two promising methods for dealing with missing data are a direct maximum-likelihood and a two-stage approach based on the unstructured mean and covariance estimates obtained by the EM-algorithm. Typical assumptions under these two methods are ignorable nonresponse and normality of data. However, data sets in social and behavioral sciences are seldom normal, and experience with these procedures indicates that normal theory based methods for nonnormal data very often lead to incorrect model evaluations. By dropping the normal distribution assumption, we develop more accurate procedures for model inference. Based on the theory of generalized estimating equations, a way to obtain consistent standard errors of the two-stage estimates is given. The asymptotic efficiencies of different estimators are compared under various assumptions. We also propose a minimum chi-square approach and show that the estimator obtained by this approach is asymptotically at least as efficient as the two likelihood-based estimators for either normal or nonnormal data. The major contribution of this paper is that for each estimator, we give a test statistic whose asymptotic distribution is chisquare as long as the underlying sampling distribution enjoys finite fourth-order moments. We also give a characterization for each of the two likelihood ratio test statistics when the underlying distribution is nonnormal. Modifications to the likelihood ratio statistics are also given. Our working assumption is that the missing data mechanism is missing completely at random. Examples and Monte Carlo studies indicate that, for commonly encountered nonnormal distributions, the procedures developed in this paper are quite reliable even for samples with missing data that are missing at random.},
   publisher = {{SAGE} Publications},
+}
+
+@Article{Zeileis-2004,
+  author = {Achim Zeileis},
+  date = {2004},
+  journaltitle = {Journal of Statistical Software},
+  title = {Econometric computing with {HC} and {HAC} covariance matrix estimators},
+  doi = {10.18637/jss.v011.i10},
+  number = {10},
+  volume = {11},
+  abstract = {Data described by econometric models typically contains autocorrelation and/or heteroskedasticity of unknown form and for inference in such models it is essential to use covariance matrix estimators that can consistently estimate the covariance of the model parameters. Hence, suitable heteroskedasticity consistent (HC) and heteroskedasticity and autocorrelation consistent (HAC) estimators have been receiving attention in the econometric literature over the last 20 years. To apply these estimators in practice, an implementation is needed that preferably translates the conceptual properties of the underlying theoretical frameworks into computational tools. In this paper, such an implementation in the package sandwich in the R system for statistical computing is described and it is shown how the suggested functions provide reusable components that build on readily existing functionality and how they can be integrated easily into new inferential procedures or applications. The toolbox contained in sandwich is extremely flexible and comprehensive, including specific functions for the most important HC and HAC estimators from the econometric literature. Several real-world data sets are used to illustrate how the functionality can be integrated into applications.},
+  publisher = {Foundation for Open Access Statistic},
+  annotation = {regression, regression-hc},
 }
