@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-21
+2024-04-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -450,6 +450,15 @@ Raghunathan, T. E., Lepkowski, J. M., Hoewyk, J. V., & Solenberger, P.
 (2001). A multivariate technique for multiply imputing missing values
 using a sequence of regression models. *Survey Methodology*, *27*(1),
 85–95.
+
+</div>
+
+<div id="ref-Raykov-Marcoulides-2004" class="csl-entry">
+
+Raykov, T., & Marcoulides, G. A. (2004). Using the delta method for
+approximate interval estimation of parameter functions in SEM.
+*Structural Equation Modeling: A Multidisciplinary Journal*, *11*(4),
+621–637. <https://doi.org/10.1207/s15328007sem1104_7>
 
 </div>
 
