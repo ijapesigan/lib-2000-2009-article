@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-04-16
+2024-04-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -236,6 +236,15 @@ Graham, J. W., Olchowski, A. E., & Gilreath, T. D. (2007). How many
 imputations are really needed? Some practical clarifications of multiple
 imputation theory. *Prevention Science*, *8*(3), 206–213.
 <https://doi.org/10.1007/s11121-007-0070-9>
+
+</div>
+
+<div id="ref-Grundy-Gondoli-BlodgettSalafia-2007" class="csl-entry">
+
+Grundy, A. M., Gondoli, D. M., & Blodgett Salafia, E. H. (2007). Marital
+conflict and preadolescent behavioral competence: Maternal knowledge as
+a longitudinal mediator. *Journal of Family Psychology*, *21*(4),
+675–682. <https://doi.org/10.1037/0893-3200.21.4.675>
 
 </div>
 
