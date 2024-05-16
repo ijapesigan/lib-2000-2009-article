@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2000-2009-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Andrews-2000" class="csl-entry">
 
@@ -578,6 +578,14 @@ Yuan, K.-H., & Bentler, P. M. (2000). Three likelihood-based methods for
 mean and covariance structure analysis with nonnormal missing data.
 *Sociological Methodology*, *30*(1), 165–200.
 <https://doi.org/10.1111/0081-1750.00078>
+
+</div>
+
+<div id="ref-Yuan-MacKinnon-2009" class="csl-entry">
+
+Yuan, Y., & MacKinnon, D. P. (2009). Bayesian mediation analysis.
+*Psychological Methods*, *14*(4), 301–322.
+<https://doi.org/10.1037/a0016972>
 
 </div>
 
