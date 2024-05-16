@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2000-2009-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Andrews-2000" class="csl-entry">
 
@@ -533,6 +533,15 @@ nonexperimental studies: New procedures and recommendations.
 Soltis, P. S., & Soltis, D. E. (2003). Applying the bootstrap in
 phylogeny reconstruction. *Statistical Science*, *18*(2).
 <https://doi.org/10.1214/ss/1063994980>
+
+</div>
+
+<div id="ref-Staudenmayer-Buonaccorsi-2005" class="csl-entry">
+
+Staudenmayer, J., & Buonaccorsi, J. P. (2005). Measurement error in
+linear autoregressive models. *Journal of the American Statistical
+Association*, *100*(471), 841–852.
+<https://doi.org/10.1198/016214504000001871>
 
 </div>
 
