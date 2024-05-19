@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-19
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -316,6 +316,14 @@ Kauermann, G., & Carroll, R. J. (2001). A note on the efficiency of
 sandwich covariance matrix estimation. *Journal of the American
 Statistical Association*, *96*(456), 1387–1396.
 <https://doi.org/10.1198/016214501753382309>
+
+</div>
+
+<div id="ref-Kenny-Korchmaros-Bolger-2003" class="csl-entry">
+
+Kenny, D. A., Korchmaros, J. D., & Bolger, N. (2003). Lower level
+mediation in multilevel models. *Psychological Methods*, *8*(2),
+115–128. <https://doi.org/10.1037/1082-989x.8.2.115>
 
 </div>
 
