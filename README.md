@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2000-2009-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Andrews-2000" class="csl-entry">
 
@@ -32,6 +32,15 @@ Baker, T. B., Piper, M. E., McCarthy, D. E., Majeskie, M. R., & Fiore,
 M. C. (2004). Addiction motivation reformulated: An affective processing
 model of negative reinforcement. *Psychological Review*, *111*(1),
 33–51. <https://doi.org/10.1037/0033-295x.111.1.33>
+
+</div>
+
+<div id="ref-Bauer-Curran-2005" class="csl-entry">
+
+Bauer, D. J., & Curran, P. J. (2005). Probing interactions in fixed and
+multilevel regression: Inferential and graphical techniques.
+*Multivariate Behavioral Research*, *40*(3), 373–400.
+<https://doi.org/10.1207/s15327906mbr4003_5>
 
 </div>
 
