@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-19
+2024-05-20
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -332,6 +332,15 @@ mediation in multilevel models. *Psychological Methods*, *8*(2),
 Koob, G. F., & Le Moal, M. (2008). Addiction and the brain antireward
 system. *Annual Review of Psychology*, *59*(1), 29–53.
 <https://doi.org/10.1146/annurev.psych.59.103006.093548>
+
+</div>
+
+<div id="ref-Krull-MacKinnon-2001" class="csl-entry">
+
+Krull, J. L., & MacKinnon, D. P. (2001). Multilevel modeling of
+individual and group level mediated effects. *Multivariate Behavioral
+Research*, *36*(2), 249–277.
+<https://doi.org/10.1207/s15327906mbr3602_06>
 
 </div>
 
