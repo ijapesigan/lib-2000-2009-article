@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2000-2009-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Andrews-2000" class="csl-entry">
 
@@ -458,6 +458,16 @@ improvement. *Review of Educational Research*, *74*(4), 525–556.
 Politis, D. N. (2003). The impact of bootstrap methods on time series
 analysis. *Statistical Science*, *18*(2).
 <https://doi.org/10.1214/ss/1063994977>
+
+</div>
+
+<div id="ref-Preacher-Curran-Bauer-2006" class="csl-entry">
+
+Preacher, K. J., Curran, P. J., & Bauer, D. J. (2006). Computational
+tools for probing interactions in multiple linear regression, multilevel
+modeling, and latent curve analysis. *Journal of Educational and
+Behavioral Statistics*, *31*(4), 437–448.
+<https://doi.org/10.3102/10769986031004437>
 
 </div>
 
