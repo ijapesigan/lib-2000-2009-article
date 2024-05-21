@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-20
+2024-05-21
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -236,6 +236,15 @@ A Multidisciplinary Journal*, *10*(4), 493–524.
 Fritz, M. S., & MacKinnon, D. P. (2007). Required sample size to detect
 the mediated effect. *Psychological Science*, *18*(3), 233–239.
 <https://doi.org/10.1111/j.1467-9280.2007.01882.x>
+
+</div>
+
+<div id="ref-Gatchel-Peng-Peters-etal-2007" class="csl-entry">
+
+Gatchel, R. J., Peng, Y. B., Peters, M. L., Fuchs, P. N., & Turk, D. C.
+(2007). The biopsychosocial approach to chronic pain: Scientific
+advances and future directions. *Psychological Bulletin*, *133*(4),
+581–624. <https://doi.org/10.1037/0033-2909.133.4.581>
 
 </div>
 
