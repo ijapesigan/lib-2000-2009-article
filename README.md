@@ -1,10 +1,9 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-27
+2024-06-28
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -125,6 +124,15 @@ Cheung, M. W.-L. (2007). Comparison of approaches to constructing
 confidence intervals for mediating effects using structural equation
 models. *Structural Equation Modeling: A Multidisciplinary Journal*,
 *14*(2), 227–246. <https://doi.org/10.1080/10705510709336745>
+
+</div>
+
+<div id="ref-Cheung-2008" class="csl-entry">
+
+Cheung, M. W.-L. (2008). A model for integrating fixed-, random-, and
+mixed-effects meta-analyses into structural equation modeling.
+*Psychological Methods*, *13*(3), 182–202.
+<https://doi.org/10.1037/a0013163>
 
 </div>
 
@@ -499,9 +507,10 @@ mediator models. *Behavior Research Methods*, *40*(3), 879–891.
 
 </div>
 
-<div id="ref-Raghunathan-Lepkowski-Hoewyk-etal-2001" class="csl-entry">
+<div id="ref-Raghunathan-Lepkowski-vanHoewyk-etal-2001"
+class="csl-entry">
 
-Raghunathan, T. E., Lepkowski, J. M., Hoewyk, J. V., & Solenberger, P.
+Raghunathan, T. E., Lepkowski, J. M., van Hoewyk, J., & Solenberger, P.
 (2001). A multivariate technique for multiply imputing missing values
 using a sequence of regression models. *Survey Methodology*, *27*(1),
 85–95.
