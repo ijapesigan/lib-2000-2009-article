@@ -1,10 +1,9 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-08
+2024-07-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -160,6 +159,15 @@ Modeling: A Multidisciplinary Journal*, *16*(2), 267–294.
 Chow, S.-M., Hamagani, F., & Nesselroade, J. R. (2007). Age differences
 in dynamical emotion-cognition linkages. *Psychology and Aging*,
 *22*(4), 765–780. <https://doi.org/10.1037/0882-7974.22.4.765>
+
+</div>
+
+<div id="ref-Cole-Martin-Steiger-2005" class="csl-entry">
+
+Cole, D. A., Martin, N. C., & Steiger, J. H. (2005). Empirical and
+conceptual problems with longitudinal trait-state models: Introducing a
+trait-state-occasion model. *Psychological Methods*, *10*(1), 3–20.
+<https://doi.org/10.1037/1082-989x.10.1.3>
 
 </div>
 
@@ -393,6 +401,16 @@ Long, J. S., & Ervin, L. H. (2000). Using heteroscedasticity consistent
 standard errors in the linear regression model. *The American
 Statistician*, *54*(3), 217–224.
 <https://doi.org/10.1080/00031305.2000.10474549>
+
+</div>
+
+<div id="ref-Ludtke-Marsh-Robitzsch-etal-2008" class="csl-entry">
+
+Lüdtke, O., Marsh, H. W., Robitzsch, A., Trautwein, U., Asparouhov, T.,
+& Muth’en, B. (2008). The multilevel latent covariate model: A new, more
+reliable approach to group-level effects in contextual studies.
+*Psychological Methods*, *13*(3), 203–229.
+<https://doi.org/10.1037/a0012869>
 
 </div>
 
