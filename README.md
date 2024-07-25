@@ -1,10 +1,9 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-18
+2024-07-25
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -543,6 +542,15 @@ Raykov, T., & Marcoulides, G. A. (2004). Using the delta method for
 approximate interval estimation of parameter functions in SEM.
 *Structural Equation Modeling: A Multidisciplinary Journal*, *11*(4),
 621–637. <https://doi.org/10.1207/s15328007sem1104_7>
+
+</div>
+
+<div id="ref-Sakai-MikulichGilbertson-Long-etal-2006" class="csl-entry">
+
+Sakai, J. T., Mikulich-Gilbertson, S. K., Long, R. J., & Crowley, T. J.
+(2006). Validity of transdermal alcohol monitoring: Fixed and
+self‐regulated dosing. *Alcoholism: Clinical and Experimental Research*,
+*30*(1), 26–33. <https://doi.org/10.1111/j.1530-0277.2006.00004.x>
 
 </div>
 
