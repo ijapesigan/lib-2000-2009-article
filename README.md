@@ -325,6 +325,14 @@ software implementation. *Behavior Research Methods*, *39*(4), 709–722.
 
 </div>
 
+<div id="ref-Higgins-Thompson-2002" class="csl-entry">
+
+Higgins, J. P. T., & Thompson, S. G. (2002). Quantifying heterogeneity
+in a meta‐analysis. *Statistics in Medicine*, *21*(11), 1539–1558.
+<https://doi.org/10.1002/sim.1186>
+
+</div>
+
 <div id="ref-Holmes-2003a" class="csl-entry">
 
 Holmes, S. (2003a). Bootstrapping phylogenetic trees: Theory and
