@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-19
+2024-09-07
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -463,6 +463,14 @@ of longitudinal mediation. *Psychological Methods*, *12*(1), 23–44.
 McArdle, J. J. (2009). Latent variable modeling of differences and
 changes with longitudinal data. *Annual Review of Psychology*, *60*(1),
 577–605. <https://doi.org/10.1146/annurev.psych.60.110707.163612>
+
+</div>
+
+<div id="ref-Mehta-Neale-2005" class="csl-entry">
+
+Mehta, P. D., & Neale, M. C. (2005). People are variables too:
+Multilevel structural equations modeling. *Psychological Methods*,
+*10*(3), 259–284. <https://doi.org/10.1037/1082-989x.10.3.259>
 
 </div>
 
