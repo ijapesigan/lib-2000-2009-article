@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-09-07
+2024-09-15
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -495,6 +495,24 @@ paradigm in psychology. *Current Directions in Psychological Science*,
 Oud, J. H. L., & Jansen, R. A. R. G. (2000). Continuous time state space
 modeling of panel data by means of SEM. *Psychometrika*, *65*(2),
 199–215. <https://doi.org/10.1007/bf02294374>
+
+</div>
+
+<div id="ref-Patrick-Maggs-2007" class="csl-entry">
+
+Patrick, M. E., & Maggs, J. L. (2007). Short‐term changes in plans to
+drink and importance of positive and negative alcohol consequences.
+*Journal of Adolescence*, *31*(3), 307–321.
+<https://doi.org/10.1016/j.adolescence.2007.06.002>
+
+</div>
+
+<div id="ref-Patrick-Maggs-2009" class="csl-entry">
+
+Patrick, M. E., & Maggs, J. L. (2009). Profiles of motivations for
+alcohol use and sexual behavior among first‐year university students.
+*Journal of Adolescence*, *33*(5), 755–765.
+<https://doi.org/10.1016/j.adolescence.2009.10.003>
 
 </div>
 
