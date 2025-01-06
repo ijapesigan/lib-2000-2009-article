@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-12-16
+2025-01-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -91,6 +91,13 @@ life as it is lived. *Annual Review of Psychology*, *54*(1), 579–616.
 
 Boos, D. D. (2003). Introduction to the bootstrap world. *Statistical
 Science*, *18*(2). <https://doi.org/10.1214/ss/1063994971>
+
+</div>
+
+<div id="ref-Buehlmann-2002" class="csl-entry">
+
+Bühlmann, P. (2002). Bootstraps for time series. *Statistical Science*,
+*17*(1). <https://doi.org/10.1214/ss/1023798998>
 
 </div>
 
