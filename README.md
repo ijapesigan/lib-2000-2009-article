@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-01-06
+2025-05-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -308,6 +308,15 @@ Science*, *18*(2). <https://doi.org/10.1214/ss/1063994970>
 
 </div>
 
+<div id="ref-Hamaker-Dolan-Molenaar-2005" class="csl-entry">
+
+Hamaker, E. L., Dolan, C. V., & Molenaar, P. C. M. (2005). Statistical
+modeling of the individual: Rationale and application of multivariate
+stationary time series analysis. *Multivariate Behavioral Research*,
+*40*(2), 207–233. <https://doi.org/10.1207/s15327906mbr4002_3>
+
+</div>
+
 <div id="ref-HatemiJ-2003" class="csl-entry">
 
 Hatemi-J, A. (2003). A new method to choose optimal lag order in stable
@@ -495,6 +504,15 @@ changes with longitudinal data. *Annual Review of Psychology*, *60*(1),
 Mehta, P. D., & Neale, M. C. (2005). People are variables too:
 Multilevel structural equations modeling. *Psychological Methods*,
 *10*(3), 259–284. <https://doi.org/10.1037/1082-989x.10.3.259>
+
+</div>
+
+<div id="ref-Molenaar-2004" class="csl-entry">
+
+Molenaar, P. C. M. (2004). A manifesto on psychology as idiographic
+science: Bringing the person back into scientific psychology, this time
+forever. *Measurement: Interdisciplinary Research &Amp; Perspective*,
+*2*(4), 201–218. <https://doi.org/10.1207/s15366359mea0204_1>
 
 </div>
 
