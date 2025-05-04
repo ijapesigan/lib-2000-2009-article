@@ -511,7 +511,7 @@ Multilevel structural equations modeling. *Psychological Methods*,
 
 Molenaar, P. C. M. (2004). A manifesto on psychology as idiographic
 science: Bringing the person back into scientific psychology, this time
-forever. *Measurement: Interdisciplinary Research &Amp; Perspective*,
+forever. *Measurement: Interdisciplinary Research & Perspective*,
 *2*(4), 201–218. <https://doi.org/10.1207/s15366359mea0204_1>
 
 </div>
