@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-05-04
+2025-05-20
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -24,6 +24,14 @@ entry-spacing="0" line-spacing="2">
 Andrews, D. W. K. (2000). Inconsistency of the bootstrap when a
 parameter is on the boundary of the parameter space. *Econometrica*,
 *68*(2), 399–405. <https://doi.org/10.1111/1468-0262.00114>
+
+</div>
+
+<div id="ref-Arnett-2005" class="csl-entry">
+
+Arnett, J. J. (2005). The developmental context of substance use in
+emerging adulthood. *Journal of Drug Issues*, *35*(2), 235–254.
+<https://doi.org/10.1177/002204260503500202>
 
 </div>
 
