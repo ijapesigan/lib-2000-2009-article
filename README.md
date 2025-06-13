@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-05-20
+2025-06-13
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -619,6 +619,15 @@ Raykov, T., & Marcoulides, G. A. (2004). Using the delta method for
 approximate interval estimation of parameter functions in SEM.
 *Structural Equation Modeling: A Multidisciplinary Journal*, *11*(4),
 621–637. <https://doi.org/10.1207/s15328007sem1104_7>
+
+</div>
+
+<div id="ref-Reinert-Allen-2007" class="csl-entry">
+
+Reinert, D. F., & Allen, J. P. (2007). The alcohol use disorders
+identification test: An update of research findings. *Alcoholism:
+Clinical and Experimental Research*, *31*(2), 185–199.
+<https://doi.org/10.1111/j.1530-0277.2006.00295.x>
 
 </div>
 
