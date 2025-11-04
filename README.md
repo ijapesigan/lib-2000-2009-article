@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-10-05
+2025-11-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -114,6 +114,14 @@ Bühlmann, P. (2002). Bootstraps for time series. *Statistical Science*,
 Casella, G. (2003). Introduction to the silver anniversary of the
 bootstrap. *Statistical Science*, *18*(2).
 <https://doi.org/10.1214/ss/1063994967>
+
+</div>
+
+<div id="ref-Casey-Jones-Hare-2008" class="csl-entry">
+
+Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain.
+*Annals of the New York Academy of Sciences*, *1124*(1), 111–126.
+<https://doi.org/10.1196/annals.1440.010>
 
 </div>
 
@@ -454,6 +462,15 @@ Lele, S. R. (2003). Impact of bootstrap on the estimating functions.
 
 </div>
 
+<div id="ref-Leventhal-BrooksGunn-2000" class="csl-entry">
+
+Leventhal, T., & Brooks-Gunn, J. (2000). The neighborhoods they live in:
+The effects of neighborhood residence on child and adolescent outcomes.
+*Psychological Bulletin*, *126*(2), 309–337.
+<https://doi.org/10.1037/0033-2909.126.2.309>
+
+</div>
+
 <div id="ref-Long-Ervin-2000" class="csl-entry">
 
 Long, J. S., & Ervin, L. H. (2000). Using heteroscedasticity consistent
@@ -732,6 +749,15 @@ phylogeny reconstruction. *Statistical Science*, *18*(2).
 
 </div>
 
+<div id="ref-Squeglia-Jacobus-Tapert-2009" class="csl-entry">
+
+Squeglia, L. M., Jacobus, J., & Tapert, S. F. (2009). The influence of
+substance use on adolescent brain development. *Clinical EEG and
+Neuroscience*, *40*(1), 31–38.
+<https://doi.org/10.1177/155005940904000110>
+
+</div>
+
 <div id="ref-Staudenmayer-Buonaccorsi-2005" class="csl-entry">
 
 Staudenmayer, J., & Buonaccorsi, J. P. (2005). Measurement error in
@@ -775,6 +801,15 @@ Wang, L., & Zhang, Q. (2020). Investigating the impact of the time
 interval selection on autoregressive mediation modeling: Result
 interpretations, effect reporting, and temporal designs. *Psychological
 Methods*, *25*(3), 271–291. <https://doi.org/10.1037/met0000235>
+
+</div>
+
+<div id="ref-Wills-Resko-Ainette-etal-2004" class="csl-entry">
+
+Wills, T. A., Resko, J. A., Ainette, M. G., & Mendoza, D. (2004). Role
+of parent support and peer support in adolescent substance use: A test
+of mediated effects. *Psychology of Addictive Behaviors*, *18*(2),
+122–134. <https://doi.org/10.1037/0893-164x.18.2.122>
 
 </div>
 
