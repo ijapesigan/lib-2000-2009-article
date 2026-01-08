@@ -604,7 +604,7 @@ modeling of panel data by means of SEM. *Psychometrika*, *65*(2),
 
 <div id="ref-Patrick-Maggs-2007" class="csl-entry">
 
-Patrick, M. E., & Maggs, J. L. (2007). Short‐term changes in plans to
+Patrick, M. E., & Maggs, J. L. (2007). Short-term changes in plans to
 drink and importance of positive and negative alcohol consequences.
 *Journal of Adolescence*, *31*(3), 307–321.
 <https://doi.org/10.1016/j.adolescence.2007.06.002>
@@ -614,7 +614,7 @@ drink and importance of positive and negative alcohol consequences.
 <div id="ref-Patrick-Maggs-2009" class="csl-entry">
 
 Patrick, M. E., & Maggs, J. L. (2009). Profiles of motivations for
-alcohol use and sexual behavior among first‐year university students.
+alcohol use and sexual behavior among first-year university students.
 *Journal of Adolescence*, *33*(5), 755–765.
 <https://doi.org/10.1016/j.adolescence.2009.10.003>
 
@@ -697,7 +697,7 @@ Clinical and Experimental Research*, *31*(2), 185–199.
 
 Sakai, J. T., Mikulich-Gilbertson, S. K., Long, R. J., & Crowley, T. J.
 (2006). Validity of transdermal alcohol monitoring: Fixed and
-self‐regulated dosing. *Alcoholism: Clinical and Experimental Research*,
+self-regulated dosing. *Alcoholism: Clinical and Experimental Research*,
 *30*(1), 26–33. <https://doi.org/10.1111/j.1530-0277.2006.00004.x>
 
 </div>
@@ -818,6 +818,14 @@ Groothuis-Oudshoorn, C. G. M., & Rubin, D. B.</span> (2006). Fully
 conditional specification in multivariate imputation. *Journal of
 Statistical Computation and Simulation*, *76*(12), 1049–1064.
 <https://doi.org/10.1080/10629360600810434>
+
+</div>
+
+<div id="ref-Viechtbauer-2007" class="csl-entry">
+
+Viechtbauer, W. (2007). Confidence intervals for the amount of
+heterogeneity in meta-analysis. *Statistics in Medicine*, *26*(1),
+37–52. <https://doi.org/10.1002/sim.2514>
 
 </div>
 
