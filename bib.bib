@@ -598,6 +598,33 @@ The generality of the block bootstrap is contrasted with sieve bootstraps. We di
   publisher = {American Psychological Association (APA)},
 }
 
+@Article{Gelman-2006,
+  author = {Andrew Gelman},
+  date = {2006-09},
+  journaltitle = {Bayesian Analysis},
+  title = {Prior distributions for variance parameters in hierarchical models (comment on article by Browne and Draper)},
+  doi = {10.1214/06-ba117a},
+  issn = {1936-0975},
+  number = {3},
+  volume = {1},
+  abstract = {Various noninformative prior distributions have been suggested for scale parameters in hierarchical models. We construct a new folded-noncentral-$t$ family of conditionally conjugate priors for hierarchical standard deviation parameters, and then consider noninformative and weakly informative priors in this family. We use an example to illustrate serious problems with the inverse-gamma family of "noninformative" prior distributions. We suggest instead to use a uniform prior on the hierarchical standard deviation, using the half-$t$ family when the number of groups is small and in other settings where a weakly informative prior is desired. We also illustrate the use of the half-$t$ family for hierarchical modeling of multiple variance parameters such as arise in the analysis of variance.},
+  publisher = {Institute of Mathematical Statistics},
+}
+
+@Article{Gelman-vanDyk-Huang-etal-2008,
+  author = {Andrew Gelman and David A {van Dyk} and Zaiying Huang and John W Boscardin},
+  date = {2008-03},
+  journaltitle = {Journal of Computational and Graphical Statistics},
+  title = {Using redundant parameterizations to fit hierarchical models},
+  doi = {10.1198/106186008x287337},
+  issn = {1537-2715},
+  number = {1},
+  pages = {95--122},
+  volume = {17},
+  abstract = {Hierarchical linear and generalized linear models can be fit using Gibbs samplers and Metropolis algorithms; these models, however, often have many parameters, and convergence of the seemingly most natural Gibbs and Metropolis algorithms can sometimes be slow. We examine solutions that involve reparameterization and over-parameterization. We begin with parameter expansion using working parameters, a strategy developed for the EM algorithm. This strategy can lead to algorithms that are much less susceptible to becoming stuck near zero values of the variance parameters than are more standard algorithms. Second, we consider a simple rotation of the regression coefficients based on an estimate of their posterior covariance matrix. This leads to a Gibbs algorithm based on updating the transformed parameters one at a time or a Metropolis algorithm with vector jumps; either of these algorithms can perform much better (in terms of total CPU time) than the two standard algorithms: one-at-a-time updating of untransformed parameters or vector updating using a linear regression at each step. We present an innovative evaluation of the algorithms in terms of how quickly they can get away from remote areas of parameter space, along with some more standard evaluation of computation and convergence speeds. We illustrate our methods with examples from our applied work. Our ultimate goal is to develop a fast and reliable method for fitting a hierarchical linear model as easily as one can now fit a nonhierarchical model, and to increase understanding of Gibbs samplers for hierarchical models in general.},
+  publisher = {Informa UK Limited},
+}
+
 @Article{Graham-Olchowski-Gilreath-2007,
   author = {John W. Graham and Allison E. Olchowski and Tamika D. Gilreath},
   date = {2007-06},
@@ -1054,6 +1081,19 @@ The generality of the block bootstrap is contrasted with sieve bootstraps. We di
   volume = {65},
   abstract = {Maximum likelihood parameter estimation of the continuous time linear stochastic state space model is considered on the basis of largeN discrete time data using a structural equation modeling (SEM) program. Random subject effects are allowed to be part of the model. The exact discrete model (EDM) is employed which links the discrete time model parameters to the underlying continuous time model parameters by means of nonlinear restrictions. The EDM is generalized to cover not only time-invariant parameters but also the cases of stepwise time-varying (piecewise time-invariant) parameters and parameters varying continuously over time according to a general polynomial scheme. The identification of the continuous time parameters is discussed and an educational example is presented.},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Papaspiliopoulos-Roberts-Skold-2007,
+  author = {Omiros Papaspiliopoulos and Gareth O. Roberts and Martin Sk{\"o}ld},
+  date = {2007-02},
+  journaltitle = {Statistical Science},
+  title = {A general framework for the parametrization of hierarchical models},
+  doi = {10.1214/088342307000000014},
+  issn = {0883-4237},
+  number = {1},
+  volume = {22},
+  abstract = {In this paper, we describe centering and noncentering methodology as complementary techniques for use in parametrization of broad classes of hierarchical models, with a view to the construction of effective MCMC algorithms for exploring posterior distributions from these models. We give a clear qualitative understanding as to when centering and noncentering work well, and introduce theory concerning the convergence time complexity of Gibbs samplers using centered and noncentered parametrizations. We give general recipes for the construction of noncentered parametrizations, including an auxiliary variable technique called the state-space expansion technique. We also describe partially noncentered methods, and demonstrate their use in constructing robust Gibbs sampler algorithms whose convergence properties are not overly sensitive to the data.},
+  publisher = {Institute of Mathematical Statistics},
 }
 
 @Article{Patrick-Maggs-2007,
