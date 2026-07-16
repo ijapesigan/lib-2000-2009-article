@@ -1041,7 +1041,7 @@ Association*, *100*(471), 841–852.
 
 <div id="ref-Suls-Martin-2005" class="csl-entry">
 
-Suls, J., & Martin, R. (2005). The daily life of the garden‐variety
+Suls, J., & Martin, R. (2005). The daily life of the garden-variety
 neurotic: Reactivity, stressor exposure, mood spillover, and maladaptive
 coping. *Journal of Personality*, *73*(6), 1485–1510.
 <https://doi.org/10.1111/j.1467-6494.2005.00356.x>
