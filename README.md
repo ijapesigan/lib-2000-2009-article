@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-10-24
+2026-10-26
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -994,6 +994,15 @@ Sakai, J. T., Mikulich-Gilbertson, S. K., Long, R. J., & Crowley, T. J.
 (2006). Validity of transdermal alcohol monitoring: Fixed and
 self-regulated dosing. *Alcoholism: Clinical and Experimental Research*,
 *30*(1), 26–33. <https://doi.org/10.1111/j.1530-0277.2006.00004.x>
+
+</div>
+
+<div id="ref-Savalei-Bentler-2009" class="csl-entry">
+
+Savalei, V., & Bentler, P. M. (2009). A two-stage approach to missing
+data: Theory and application to auxiliary variables. *Structural
+Equation Modeling: A Multidisciplinary Journal*, *16*(3), 477–497.
+<https://doi.org/10.1080/10705510903008238>
 
 </div>
 
