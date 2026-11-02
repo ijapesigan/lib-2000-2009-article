@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-01
+2026-11-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -20,6 +20,15 @@ Check](https://github.com/ijapesigan/lib-2000-2009-article/actions/workflows/non
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2">
+
+<div id="ref-Algina-Keselman-Penfield-2008" class="csl-entry">
+
+Algina, J., Keselman, H. J., & Penfield, R. D. (2008). Note on a
+confidence interval for the squared semipartial correlation coefficient.
+*Educational and Psychological Measurement*, *68*(5), 734–741.
+<https://doi.org/10.1177/0013164407313371>
+
+</div>
 
 <div id="ref-Almeida-2005" class="csl-entry">
 
@@ -1093,6 +1102,15 @@ Sliwinski, M. J., Almeida, D. M., Smyth, J., & Stawski, R. S. (2009).
 Intraindividual change and variability in daily stress processes:
 Findings from two measurement-burst diary studies. *Psychology and
 Aging*, *24*(4), 828–840. <https://doi.org/10.1037/a0017925>
+
+</div>
+
+<div id="ref-Smithson-2001" class="csl-entry">
+
+Smithson, M. (2001). Correct confidence intervals for various regression
+effect sizes and parameters: The importance of noncentral distributions
+in computing intervals. *Educational and Psychological Measurement*,
+*61*(4), 605–632. <https://doi.org/10.1177/00131640121971392>
 
 </div>
 
