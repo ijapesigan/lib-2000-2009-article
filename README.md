@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-02
+2026-11-03
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -21,9 +21,27 @@ Check](https://github.com/ijapesigan/lib-2000-2009-article/actions/workflows/non
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2">
 
+<div id="ref-Algina-Keselman-Penfield-2007" class="csl-entry">
+
+Algina, J., Keselman, H. J., & Penfield, R. D. (2007). Confidence
+intervals for an effect size measure in multiple linear regression.
+*Educational and Psychological Measurement*, *67*(2), 207–218.
+<https://doi.org/10.1177/0013164406292030>
+
+</div>
+
+<div id="ref-Algina-Keselman-Penfield-2008a" class="csl-entry">
+
+Algina, J., Keselman, H. J., & Penfield, R. D. (2008a). Confidence
+intervals for the squared multiple semipartial correlation coefficient.
+*Journal of Modern Applied Statistical Methods*, *7*(1), 2–10.
+<https://doi.org/10.22237/jmasm/1209614460>
+
+</div>
+
 <div id="ref-Algina-Keselman-Penfield-2008" class="csl-entry">
 
-Algina, J., Keselman, H. J., & Penfield, R. D. (2008). Note on a
+Algina, J., Keselman, H. J., & Penfield, R. D. (2008b). Note on a
 confidence interval for the squared semipartial correlation coefficient.
 *Educational and Psychological Measurement*, *68*(5), 734–741.
 <https://doi.org/10.1177/0013164407313371>
@@ -95,6 +113,15 @@ with correlations? *American Psychologist*, *62*(8), 772–782.
 Beran, R. (2003). The impact of the bootstrap on statistical algorithms
 and theory. *Statistical Science*, *18*(2).
 <https://doi.org/10.1214/ss/1063994972>
+
+</div>
+
+<div id="ref-Boik-Haaland-2006" class="csl-entry">
+
+Boik, R. J., & Haaland, B. (2006). Second-order accurate inference on
+simple, partial, and multiple correlations. *Journal of Modern Applied
+Statistical Methods*, *5*(2), 283–308.
+<https://doi.org/10.22237/jmasm/1162353660>
 
 </div>
 
