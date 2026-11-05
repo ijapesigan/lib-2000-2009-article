@@ -48,6 +48,15 @@ confidence interval for the squared semipartial correlation coefficient.
 
 </div>
 
+<div id="ref-Algina-Moulder-2001" class="csl-entry">
+
+Algina, J., & Moulder, B. C. (2001). Sample sizes for confidence
+intervals on the increase in the squared multiple correlation
+coefficient. *Educational and Psychological Measurement*, *61*(4),
+633–649. <https://doi.org/10.1177/00131640121971400>
+
+</div>
+
 <div id="ref-Almeida-2005" class="csl-entry">
 
 Almeida, D. M. (2005). Resilience and vulnerability to daily stressors
@@ -656,6 +665,14 @@ Statistical Association*, *96*(456), 1387–1396.
 
 </div>
 
+<div id="ref-Kelley-2007" class="csl-entry">
+
+Kelley, K. (2007). Confidence intervals for standardized effect sizes:
+Theory, application, and implementation. *Journal of Statistical
+Software*, *20*(8). <https://doi.org/10.18637/jss.v020.i08>
+
+</div>
+
 <div id="ref-Kenny-Korchmaros-Bolger-2003" class="csl-entry">
 
 Kenny, D. A., Korchmaros, J. D., & Bolger, N. (2003). Lower level
@@ -843,6 +860,17 @@ changes with longitudinal data. *Annual Review of Psychology*, *60*(1),
 Mehta, P. D., & Neale, M. C. (2005). People are variables too:
 Multilevel structural equations modeling. *Psychological Methods*,
 *10*(3), 259–284. <https://doi.org/10.1037/1082-989x.10.3.259>
+
+</div>
+
+<div id="ref-Mendoza-Stafford-2001" class="csl-entry">
+
+Mendoza, J. L., & Stafford, K. L. (2001). Confidence intervals, power
+calculation, and sample size estimation for the squared multiple
+correlation coefficient under the fixed and random regression models: A
+computer program and useful standard tables. *Educational and
+Psychological Measurement*, *61*(4), 650–667.
+<https://doi.org/10.1177/00131640121971419>
 
 </div>
 
@@ -1089,6 +1117,15 @@ the science in the meta-analysis of single-case experimental designs.
 
 Shao, J. (2003). Impact of the bootstrap on sample surveys. *Statistical
 Science*, *18*(2). <https://doi.org/10.1214/ss/1063994974>
+
+</div>
+
+<div id="ref-Shieh-2006" class="csl-entry">
+
+Shieh, G. (2006). Exact interval estimation, power calculation, and
+sample size determination in normal correlation analysis.
+*Psychometrika*, *71*(3), 529–540.
+<https://doi.org/10.1007/s11336-04-1221-6>
 
 </div>
 
