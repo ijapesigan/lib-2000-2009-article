@@ -1,7 +1,7 @@
 lib-2000-2009-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-03
+2026-11-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -739,6 +739,15 @@ Leventhal, T., & Brooks-Gunn, J. (2000). The neighborhoods they live in:
 The effects of neighborhood residence on child and adolescent outcomes.
 *Psychological Bulletin*, *126*(2), 309–337.
 <https://doi.org/10.1037/0033-2909.126.2.309>
+
+</div>
+
+<div id="ref-Lewandowski-Kurowicka-Joe-2009" class="csl-entry">
+
+Lewandowski, D., Kurowicka, D., & Joe, H. (2009). Generating random
+correlation matrices based on vines and extended onion method. *Journal
+of Multivariate Analysis*, *100*(9), 1989–2001.
+<https://doi.org/10.1016/j.jmva.2009.04.008>
 
 </div>
 
